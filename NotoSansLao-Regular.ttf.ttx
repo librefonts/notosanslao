@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="NotoSansLao-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="NotoSansLao-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="NotoSansLao-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="NotoSansLao-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="NotoSansLao-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="NotoSansLao-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="NotoSansLao-Regular.ttf._c_m_a_p.ttx"/>
+  <loca src="NotoSansLao-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="NotoSansLao-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="NotoSansLao-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="NotoSansLao-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="NotoSansLao-Regular.ttf._g_a_s_p.ttx"/>
+  <FFTM src="NotoSansLao-Regular.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="NotoSansLao-Regular.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="NotoSansLao-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="NotoSansLao-Regular.ttf.G_S_U_B_.ttx"/>
+  <feat src="NotoSansLao-Regular.ttf._f_e_a_t.ttx"/>
+  <morx src="NotoSansLao-Regular.ttf._m_o_r_x.ttx"/>
+</ttFont>
